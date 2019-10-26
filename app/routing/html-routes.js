@@ -21,5 +21,4 @@ function htmlRoutes(app) {
 }
 
 
-// Export for use in main server.js file
 module.exports = htmlRoutes;
